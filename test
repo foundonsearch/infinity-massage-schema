@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Infinity Massage Brighton Schema</title>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["HealthAndBeautyBusiness", "LocalBusiness"],
+  "@id": "https://www.infinitymassagebrighton.co.uk/#organization",
+  "name": "Infinity Massage Therapy Brighton",
+  "alternateName": "Infinity Massage Brighton",
+  "legalName": "Black Gmma Ltd",
+  "description": "Professional massage therapy clinic in Brighton city centre specializing in sports massage, deep tissue massage, and relaxation treatments. Expert therapist Harminder provides high-quality therapeutic massage targeting problem areas, preparing clients for athletic events, and facilitating recovery. Offering organic and vegan massage options for skin-friendly, environmentally conscious treatments.",
+  "url": "https://www.infinitymassagebrighton.co.uk/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://www.infinitymassagebrighton.co.uk/wp-content/uploads/2019/12/harminder-logo.png",
+    "width": "242",
+    "height": "120"
+  },
+  "image": [
+    "https://www.infinitymassagebrighton.co.uk/wp-content/uploads/2019/10/5-IMG_5551.jpg",
+    "https://www.infinitymassagebrighton.co.uk/wp-content/uploads/2019/10/1-IMG_5546.jpg",
+    "https://www.infinitymassagebrighton.co.uk/wp-content/uploads/2019/10/2-IMG_5547.jpg"
